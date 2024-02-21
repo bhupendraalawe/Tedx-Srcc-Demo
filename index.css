@@ -1,0 +1,74 @@
+.card{
+    border: 5px solid rgba(0, 0, 0, 0.365);
+    color: white;
+}
+
+.aboutus_special_class{
+    margin-top: 50px;
+}
+
+body{
+    color: white;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_margin{
+    margin: 50px;
+}
+
+h1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.last_div{
+    min-height: 300px;
+    width: 100%;
+    min-width: 100%;
+    background-color: rgba(0, 0, 0, 0.405);
+    color: white;
+    margin-top: 40px;
+
+}
+
+.last_div a{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.socials a{
+    margin-top: 20px;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.socials a:hover{
+    background-color: rgb(62, 141, 252);
+}
+
+.address{
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+#developer{
+    color: rgba(111, 173, 123, 0.774);
+    margin-top: 20px;
+}
+
+.navbar-brand span{
+    color: red;
+}
+
+
